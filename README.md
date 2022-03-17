@@ -139,7 +139,7 @@ Owend
 
 在此編輯自己的ERC 20 TOKEN，下列之後的所有程式碼皆在描述此ERC20之標準
 
-![image](https://user-images.githubusercontent.com/62298086/157824421-c9bbb41f-faed-4042-8405-9a7d1cc39d8f.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/62298086/157824460-96288d0e-82ac-46c4-828a-5c04a02d9e66.png)
@@ -160,7 +160,7 @@ transferFrom（） 
 
 實作前面ERC20Interface的程式碼
 
-![image](https://user-images.githubusercontent.com/62298086/157824573-030bf194-1570-4e27-bf29-45fdcc317fcb.png)
+
 
 ![image](https://user-images.githubusercontent.com/62298086/157824518-5928c65b-dad7-40c1-8e1d-d1131ae1c064.png)
 ![image](https://user-images.githubusercontent.com/62298086/157824558-99186c3d-d88e-48f6-98cd-710efe99e41e.png)
